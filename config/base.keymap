@@ -22,7 +22,7 @@
 #define XXX &none
 #define ___ &trans
 
-/* Global settings */
+/* Global settings  */
 
 #define QUICK_TAP_MS 175
 
